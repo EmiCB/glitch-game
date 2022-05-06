@@ -27,12 +27,15 @@ Due to how one of our assets interacts with our player, we have many more contro
 - **ESC** to pause
 
 ### More Detailed Guide
-*Note: remove this section after the condensing controls update*
 
-- press **E** to sit at the computer
-- hold **Q** to code on the computer, release **Q** to stop coding
-  - press **SPACE** over the highlighted area to perform skill checks
+The goal of the game is to complete progress on the computer before time runs out. However, many things happen around the room that decrease the player's sanity. When sanity reaches 0 or time runs out, the player loses the game. The player can regain sanity by interacting with the hallucinations that appear. There is also an optional puzzle in the bathroom that will give the player painkillers which can be used to regain sanity in the event of an emergency.
+
+- press **E** to sit at / get up from the computer
+- press and hold **Q** to code on the computer, release **Q** to stop coding
+  - press **SPACE** while the indicator is over the highlighted area to perform skill checks
 - click the **Left Mouse Button** to pick up items and interact with objects in the world
+- click the **Right Mouse Button** to inspect pages and use items like keys
+- press **TAB** to open the inventory which contains hints and all items you collect
 
 ## Asset Credits
 Coming soon!
