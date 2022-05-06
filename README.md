@@ -12,18 +12,23 @@ Complete skill checks to make progess on your assignment, confront your fears, a
 [![](https://img.shields.io/badge/-Download_On_Itch.io-orange)]()
 
 ## How To Play
+Due to how one of our assets interacts with our player, we have many more controls than we need to. We are working on fixing this, but for now, this section should help guide you through how to play with the extra controls.
+
 ### Controls
 - **WASD** to move
-- **Mouse** to look around and interact
-- **E** to interact
+- **Mouse** to look around
+- **LMB** to interact
+- **RMB** to use an item
+- **E** to sit
 - **Q** to code
 - **SPACE** to perform skill checks
 - **SHIFT** to run
+- **TAB** to open inventory
+- **ESC** to pause
 
 ### More Detailed Guide
 *Note: remove this section after the condensing controls update*
 
-There are 3 ways to interact with the world (we know, this is awful):
 - press **E** to sit at the computer
 - hold **Q** to code on the computer, release **Q** to stop coding
   - press **SPACE** over the highlighted area to perform skill checks
